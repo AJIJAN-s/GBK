@@ -1,1 +1,2 @@
-# GBK (Rock Paper Scissor)
+# GBK
+Rock Paper Scissor - Games
